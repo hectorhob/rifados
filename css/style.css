@@ -597,6 +597,14 @@ a:hover {
     margin: 0px;
 }
 
+.dynamic_text {
+    width: 100%;
+    font-size: 22px;
+    color: #000000;
+    text-align: justify;
+    margin: 0px;
+}
+
 .tshirt_img {
     width: 100%;
     text-align: center;
