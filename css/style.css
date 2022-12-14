@@ -844,6 +844,11 @@ a:hover {
     border-bottom: 1px solid #ffffff !important;
 }
 
+.div_center {
+    display: flex;
+    justify-content: center;
+}
+
 .mail_bt {
     width: 100%;
     float: left;
