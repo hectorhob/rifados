@@ -849,6 +849,33 @@ a:hover {
     justify-content: center;
 }
 
+.div_no_vendido{
+    width: 10%;
+    background-color: #000000;
+    text-align: center;
+    float: left;
+    font-size: 18px;
+}
+
+.no_vendido a{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.div_vendido{
+    width: 10%;
+    background-color: #ffffff;
+    text-align: center;
+    float: left;
+    font-size: 18px;
+}
+
+.no_vendido a{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+
 .mail_bt {
     width: 100%;
     float: left;
